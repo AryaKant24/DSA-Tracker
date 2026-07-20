@@ -11,12 +11,24 @@ Tracking my journey of solving LeetCode problems and improving problem-solving s
 
 DSA-Tracker
 │
+├── .template
+│   ├── Question.md
+│   ├── Notes.md
+│   └── solution.cpp
+│
 ├── Arrays
 ├── Binary Search
-├── Dynamic Programming
-├── Graphs
+├── Linked List
+├── Stack & Queue
 ├── Trees
-└── ...
+├── Graphs
+├── Greedy
+├── Dynamic Programming
+├── Trie
+│
+├── README.md
+├── .gitignore
+└── new_problem.bat
 
 ## Topics Covered
 
