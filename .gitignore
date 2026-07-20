@@ -1,0 +1,12 @@
+# VS Code settings
+.vscode/
+
+# Compiled C++ files
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+
+# Windows files
+Thumbs.db
