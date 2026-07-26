@@ -1,0 +1,10 @@
+# Question
+Undirected Graph Cycle
+## Link
+https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+## Difficulty
+
+## Pattern
+BFS-DFS
+## Problem Statement
+Given an undirected graph with V vertices and E edges, represented as a 2D vector edges[][], where each entry edges[i] = [u, v] denotes an edge between vertices u and v, determine whether the graph contains a cycle or not.
