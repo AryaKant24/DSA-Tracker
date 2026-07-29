@@ -10,7 +10,7 @@ public:
         if(counter<0) return false;
         if(i == s.length())
         {
-            return counter== 0;
+            return counter == 0;
         }
         if(dp[i][counter] != -1) return dp[i][counter];
         if(s[i] == '(')
