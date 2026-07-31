@@ -1,0 +1,15 @@
+# Question
+Top View of Binary Tree
+## Link
+https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+## Difficulty
+Medium
+## Pattern
+Level Order Traversal
+## Problem Statement
+You are given the root of a binary tree, and your task is to return its top view. The top view of a binary tree is the set of nodes visible when the tree is viewed from the top.
+
+Note:
+
+Return the nodes from the leftmost node to the rightmost node.
+If multiple nodes overlap at the same horizontal position, only the topmost (closest to the root) node is included in the view. 
