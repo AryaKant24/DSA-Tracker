@@ -1,5 +1,5 @@
 # Notes
-
+Found an interesting way to convert adjacency matrix to graph!
 ## Approach
 Breadth First Search
 ## Mistakes
