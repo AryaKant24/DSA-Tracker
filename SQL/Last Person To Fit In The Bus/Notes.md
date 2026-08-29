@@ -63,3 +63,8 @@ Winston      Winston
 | Bob       |              1375 | ❌     |
 | Winston   |              1875 | ❌     |
 
+q1.turn>=q2.turn
+SUM(q2.weight)
+GROUP BY q1.person_id 
+HELPS IN CUMULATIVE SUM
+
