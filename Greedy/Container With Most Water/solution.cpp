@@ -13,7 +13,7 @@ public:
             if(height[p1]<height[p2])
             {
                 p1++;
-            }
+            }   
             else
             {
                 p2--;

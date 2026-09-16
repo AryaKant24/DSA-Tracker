@@ -3,7 +3,7 @@ WITH cte AS(
     COUNT(DISTINCT a.user_id) AS customer_count
     FROM ProductPurchases a
     JOIN ProductPurchases b
-    ON a.user_id=b.user_id AND a.product_id = a.product_id<b.product_id 
+    ON a.user_id=b.user_id AND a.product_id<b.product_id 
     GROUP BY a.product_id, b.product_id
     HAVING COUNT(DISTINCT a.user_id)>=3
 )
