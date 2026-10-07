@@ -1,7 +1,7 @@
 # Notes
 
 ## Approach
-
+Idea: Bring smallest element to the top
 ## Mistakes
 
 ## Time Complexity
